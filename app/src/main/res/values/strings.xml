@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <resources>
+        <string name="app_name">AndroidBashFirebase</string>
+        <string name="action_logout"> Log Out</string>
+        <string name="facebook_app_id">149892825434516</string>
+    </resources>
+
