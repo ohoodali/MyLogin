@@ -68,7 +68,7 @@ public class LoginActivity extends AppCompatActivity {
         myFirebaseRef = new Firebase("https://my-login-fac74.firebaseio.com/");
 
     }
-
+// yes i can
     @Override
     protected void onStart() {
         super.onStart();
